@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390313079577",
+    "project_id": "tasknlive",
+    "storage_bucket": "tasknlive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390313079577:android:6aea46e9a10689bef64b88",
+        "android_client_info": {
+          "package_name": "com.example.tasknlive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALR_cBPL8w7UQeg5iT-pX2K8cVS5kKkgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
