@@ -61,5 +61,14 @@ dependencies {
     implementation ("com.google.firebase:firebase-database-ktx")
     implementation ("com.google.firebase:firebase-firestore-ktx")
     implementation ("com.google.android.gms:play-services-auth:20.7.0")
+
+    testImplementation("junit:junit:4.13.2")
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    androidTestImplementation("androidx.test:runner:1.5.2")
+    androidTestImplementation("androidx.test:rules:1.5.0")
+
+    // (Optional) If you need monitor (for InstrumentationRegistry)
+    androidTestImplementation("androidx.test:monitor:1.7.2")
 }
 
